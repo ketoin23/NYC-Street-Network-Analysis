@@ -1,5 +1,5 @@
 # NYC-Street-Network-Analysis
-Analysed the the street network of Ney York City, particularily Manhattan. Performed standard graph analysis, used machine learning to cluster regions, and estimated the shortest path in the network give 2 coordinates in terms of longitude and latitude.
+Analysed the the street network of Ney York City, particularily Manhattan. Performed standard graph analysis, used machine learning to cluster regions, and estimated the shortest path in the network given 2 coordinates in terms of longitude and latitude.
 
 ## Datasets 
 #### Street Network of New York in GraphML : https://www.kaggle.com/datasets/crailtap/street-network-of-new-york-in-graphml
